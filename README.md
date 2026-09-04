@@ -1,5 +1,6 @@
 ## Assitente local usando materiais fornecido pelos professores
 
+dentro do arquivo ipynb detalhei passo a passo do código.
 
  | Ferramenta |
 |---|
